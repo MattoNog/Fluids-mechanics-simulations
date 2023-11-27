@@ -1,0 +1,4 @@
+README ABOUT "Ondas gravitacionales"
+Theoretical analysis of the interaction of two fluids leading to its dispersion equation. 
+After the mentioned, the theoretical analysis was compared to the computational simulation in which the system was translated to matrixs (M and L) in order to codify the information about the boundary conditions. 
+As a consequence, the frequency of the system was calculated through algebra and compared to the theorical results. Conclusion: similarity in form, not in magnitud, there must be and scalar correlation.
